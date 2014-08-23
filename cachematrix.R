@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Programming Assignment No. 2 is going to involve 
+## the use of the "solve" funtion.
 
 ## Write a short comment describing this function
 
